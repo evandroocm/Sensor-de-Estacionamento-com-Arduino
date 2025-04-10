@@ -1,4 +1,7 @@
 # Sensor-de-Estacionamento-com-Arduino
+
+<img src="assets/sensor-estacionamento.png" alt="Texto alternativo"/>
+
 Este projeto simula um **sensor de estacionamento** inteligente usando o Arduino e o Tinkercad. A ideia é detectar a distância de obstáculos e emitir alertas visuais e sonoros para evitar colisões durante manobras.
 
 ## 🔧 Componentes Utilizados
